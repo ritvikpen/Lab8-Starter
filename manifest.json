@@ -1,7 +1,7 @@
 {
-  "name": "My PWA",
-  "short_name": "PWA",
-  "description": "My Progressive Web App",
+  "name": "Lab8-Starter",
+  "short_name": "Ritvikisddha Penchala",
+  "description": "Web App for recipes",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
